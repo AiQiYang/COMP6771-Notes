@@ -1,10 +1,5 @@
 # Week1.2 C++ Basic
 
-Course: Advanced C++ Programming (https://www.notion.so/Advanced-C-Programming-03efa34229a7430bba72f70fb8cfa384?pvs=21)
-Confidence: Not Confident
-Last Edited: June 1, 2024 1:08 PM
-Is Completed: No
-
 # Keywords
 
 ## auto
