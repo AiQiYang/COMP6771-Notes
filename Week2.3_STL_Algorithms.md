@@ -1,10 +1,5 @@
 # Week2.3 STL Algorithms
 
-Course: Advanced C++ Programming (https://www.notion.so/Advanced-C-Programming-03efa34229a7430bba72f70fb8cfa384?pvs=21)
-Confidence: Not Confident
-Last Edited: June 16, 2024 10:06 PM
-Is Completed: No
-
 # STL Algorithms
 
 STL（Standard Template Library）算法是C++标准库中的一部分，用于对容器中的数据进行各种操作和处理
